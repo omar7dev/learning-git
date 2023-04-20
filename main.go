@@ -1,3 +1,4 @@
-func(){
+package main;
+func main (){
 
 }
